@@ -1,6 +1,7 @@
 //if, if else, if elseif... else, switch, ternary
 
-const age = 10;
+const age = Number.parseInt(prompt("enter the age..."));
+Boolean.val
 if (age > 18) {
   console.log("you can get full licence");
 } else if (age > 16) {
