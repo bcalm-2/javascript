@@ -22,4 +22,3 @@ console.log(objectValue['secondName'])
 console.log(objectValue['address'])
 
 objectValue["firstName"] = "Srashti";
-objectValue = 2;
