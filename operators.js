@@ -39,3 +39,10 @@ console.log("truthyValue || falsyValue", truthyValue || falsyValue);
 console.log("!truthyValue", !truthyValue);
 console.log("!falsyValue", !falsyValue);
 
+//conditional operators
+console.log("number1 > number2", number1 > number2);
+console.log("number1 < number2", number1 < number2);
+console.log("number1 >= number2", number1 >= number2);
+console.log("number1 <= number2", number1 <= number2);
+console.log("number1 == number2", number1 == number2); //value check
+console.log("number1 === number2", number1 === number2); //value and type check
