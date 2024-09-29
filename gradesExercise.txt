@@ -1,0 +1,11 @@
+name,physics,maths,chemistry
+Ram,45,67,78
+Shyam,46,67,78
+Saif,45,37,78
+Nayab,45,27,78
+Ujjawal,25,67,78
+Sanyam,45,77,78
+Monal,75,67,78
+Sandesh,15,67,78
+Amit,45,07,78
+Pradeep,45,37,78
